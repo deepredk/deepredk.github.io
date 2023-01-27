@@ -1,17 +1,14 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
+  title: "deepred.blog",
+  description: "Backend 취준생입니다.",
+  author: "Deepred",
   siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
   links: {
-    github: "https://github.com/devHudi",
-    linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    email: "mailto:devhudi@gmail.com",
+    github: "https://github.com/deepredk",
+    email: "mailto:deepred.kim@gmail.com",
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "deepredk/deepredk.github.io",
     type: "pathname",
   },
 }
